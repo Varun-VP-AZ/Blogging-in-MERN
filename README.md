@@ -1,4 +1,4 @@
-![image](https://github.com/Varun-VP-AZ/Blogging-in-MERN/assets/100081593/89a26eed-7e58-4102-bfa7-4bf112597e17)![image](https://github.com/Varun-VP-AZ/Blogging-in-MERN/assets/100081593/27076588-779b-4795-8eb1-ba4100d87102)# Blogging-in-MERN
+# Blogging-in-MERN
 ### A simple and robust blogging application made in React.js, Express.js and with the help of MongoDBAtlas  
 
 ### A simple and easily understandable UI  
