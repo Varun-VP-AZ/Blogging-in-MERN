@@ -27,11 +27,11 @@
   
 ### Fully robust features  
 * Password Verification  
-  * ![image](https://github.com/Varun-VP-AZ/Blogging-in-MERN/assets/100081593/52179468-3060-4fa0-99d7-1b4a18dbd82b)  
+  ![image](https://github.com/Varun-VP-AZ/Blogging-in-MERN/assets/100081593/52179468-3060-4fa0-99d7-1b4a18dbd82b)  
 * Editing blog  
-  * ![image](https://github.com/Varun-VP-AZ/Blogging-in-MERN/assets/100081593/d8ceab3c-5e62-4d8c-a1a1-eb34a5c0c1a5)  
+  ![image](https://github.com/Varun-VP-AZ/Blogging-in-MERN/assets/100081593/d8ceab3c-5e62-4d8c-a1a1-eb34a5c0c1a5)  
 * Update Functionality  
-  * ![image](https://github.com/Varun-VP-AZ/Blogging-in-MERN/assets/100081593/ca3a94e8-2b6f-46b5-8953-be573755ff38)  
+  ![image](https://github.com/Varun-VP-AZ/Blogging-in-MERN/assets/100081593/ca3a94e8-2b6f-46b5-8953-be573755ff38)  
 
 
 
